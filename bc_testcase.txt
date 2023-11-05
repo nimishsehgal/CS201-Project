@@ -1,0 +1,377 @@
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 1
+List of Candidates: 
+A
+B
+C
+D
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 2
+Enter the unique ID of the voter: A
+Voter with ID A has been registered.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 2
+Enter the unique ID of the voter: B
+Voter with ID B has been registered.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 2
+Enter the unique ID of the voter: C
+Voter with ID C has been registered.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 2
+Enter the unique ID of the voter: D
+Voter with ID D has been registered.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 2
+Enter the unique ID of the voter: E
+Voter with ID E has been registered.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 2
+Enter the unique ID of the voter: F
+Voter with ID F has been registered.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 2
+Enter the unique ID of the voter: G
+Voter with ID G has been registered.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 2
+Enter the unique ID of the voter: A
+Voter with ID A is already registered.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 3
+Enter your voter ID: A
+Enter your vote (Candidate A, Candidate B, Candidate C, Candidate D): A
+Voter with ID A has successfully cast a vote for candidate A.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 3
+Enter your voter ID: B
+Enter your vote (Candidate A, Candidate B, Candidate C, Candidate D): B
+Voter with ID B has successfully cast a vote for candidate B.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 3
+Enter your voter ID: C
+Enter your vote (Candidate A, Candidate B, Candidate C, Candidate D): C
+Voter with ID C has successfully cast a vote for candidate C.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 3
+Enter your voter ID: D
+Enter your vote (Candidate A, Candidate B, Candidate C, Candidate D): D
+Voter with ID D has successfully cast a vote for candidate D.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 3
+Enter your voter ID: E
+Enter your vote (Candidate A, Candidate B, Candidate C, Candidate D): E
+Invalid candidate choice.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 3
+Enter your voter ID: A
+Enter your vote (Candidate A, Candidate B, Candidate C, Candidate D): D
+Voter with ID A has already cast a vote.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 3
+Enter your voter ID: E
+Enter your vote (Candidate A, Candidate B, Candidate C, Candidate D): A
+Voter with ID E has successfully cast a vote for candidate A.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 3
+Enter your voter ID: F
+Enter your vote (Candidate A, Candidate B, Candidate C, Candidate D): B
+Voter with ID F has successfully cast a vote for candidate B.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 3
+Enter your voter ID: G
+Enter your vote (Candidate A, Candidate B, Candidate C, Candidate D): B
+Voter with ID G has successfully cast a vote for candidate B.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 4
+Enter the password for admin access: welcome
+Access denied. Wrong password.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 4
+Enter the password for admin access: abc123
+Access granted.
+
+Admin Controls:
+1) End Election (Generate Blockchain)
+2) Tally Votes
+3) View a Single Block
+4) View Full Blockchain
+5) Demonstrate Blockchain Immutability
+6) Exit to Main Menu
+Enter your choice: 1
+Blockchain generated, 3 blocks long.
+
+Admin Controls:
+1) End Election (Generate Blockchain)
+2) Tally Votes
+3) View a Single Block
+4) View Full Blockchain
+5) Demonstrate Blockchain Immutability
+6) Exit to Main Menu
+Enter your choice: 2
+Candidate A: 2
+Candidate B: 3
+Candidate C: 1
+Candidate D: 1
+The election winner is Candidate B.
+
+Admin Controls:
+1) End Election (Generate Blockchain)
+2) Tally Votes
+3) View a Single Block
+4) View Full Blockchain
+5) Demonstrate Blockchain Immutability
+6) Exit to Main Menu
+Enter your choice: 3
+Enter the block number to access (range 0-2): 0
+Block Index: 0
+Block Hash: 1fbf6e27dd9a68260a8dbb09f93a6f3927b71183c84ea85c712d904d092f0b7b
+Merkle Root: N/A
+Previous Hash: 0
+Timestamp: Sun Nov  5 19:34:27 2023
+Votes:
+N/A
+
+
+Admin Controls:
+1) End Election (Generate Blockchain)
+2) Tally Votes
+3) View a Single Block
+4) View Full Blockchain
+5) Demonstrate Blockchain Immutability
+6) Exit to Main Menu
+Enter your choice: 3
+Enter the block number to access (range 0-2): 1
+Block Index: 1
+Block Hash: 3834400ab430dc8bfb959c6d69a5124920cde8762dea480a7e55e13ba20fcec2
+Previous Hash: 1fbf6e27dd9a68260a8dbb09f93a6f3927b71183c84ea85c712d904d092f0b7b
+Timestamp: Sun Nov  5 19:35:35 2023
+Votes:
+0) 333e0a1e27815d0ceee55c473fe3dc93d56c63e3bee2b3b4aee8eed6d70191a3: B
+1) 3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43: D
+2) 559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd: A
+3) 6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d: C
+
+
+
+Admin Controls:
+1) End Election (Generate Blockchain)
+2) Tally Votes
+3) View a Single Block
+4) View Full Blockchain
+5) Demonstrate Blockchain Immutability
+6) Exit to Main Menu
+Enter your choice: 3
+Enter the block number to access (range 0-2): 2
+Block Index: 2
+Block Hash: 0313a6c4c4d1c6eac6fe26ee0cc911661232bcb083f012a42840c77fd252c151
+Previous Hash: 3834400ab430dc8bfb959c6d69a5124920cde8762dea480a7e55e13ba20fcec2
+Timestamp: Sun Nov  5 19:35:35 2023
+Votes:
+0) a9f51566bd6705f7ea6ad54bb9deb449f795582d6529a0e22207b8981233ec58: A
+1) df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c: B
+2) f67ab10ad4e4c53121b6a5fe4da9c10ddee905b978d3788d2723d7bfacbe28a9: B
+
+
+
+Admin Controls:
+1) End Election (Generate Blockchain)
+2) Tally Votes
+3) View a Single Block
+4) View Full Blockchain
+5) Demonstrate Blockchain Immutability
+6) Exit to Main Menu
+Enter your choice: 4
+Block Index: 2
+Block Hash: 0313a6c4c4d1c6eac6fe26ee0cc911661232bcb083f012a42840c77fd252c151
+Previous Hash: 3834400ab430dc8bfb959c6d69a5124920cde8762dea480a7e55e13ba20fcec2
+Timestamp: Sun Nov  5 19:35:35 2023
+Votes:
+0) a9f51566bd6705f7ea6ad54bb9deb449f795582d6529a0e22207b8981233ec58: A
+1) df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c: B
+2) f67ab10ad4e4c53121b6a5fe4da9c10ddee905b978d3788d2723d7bfacbe28a9: B
+
+
+Block Index: 1
+Block Hash: 3834400ab430dc8bfb959c6d69a5124920cde8762dea480a7e55e13ba20fcec2
+Previous Hash: 1fbf6e27dd9a68260a8dbb09f93a6f3927b71183c84ea85c712d904d092f0b7b
+Timestamp: Sun Nov  5 19:35:35 2023
+Votes:
+0) 333e0a1e27815d0ceee55c473fe3dc93d56c63e3bee2b3b4aee8eed6d70191a3: B
+1) 3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43: D
+2) 559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd: A
+3) 6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d: C
+
+
+Block Index: 0
+Block Hash: 1fbf6e27dd9a68260a8dbb09f93a6f3927b71183c84ea85c712d904d092f0b7b
+Merkle Root: N/A
+Previous Hash: 0
+Timestamp: Sun Nov  5 19:34:27 2023
+Votes:
+N/A
+
+
+Admin Controls:
+1) End Election (Generate Blockchain)
+2) Tally Votes
+3) View a Single Block
+4) View Full Blockchain
+5) Demonstrate Blockchain Immutability
+6) Exit to Main Menu
+Enter your choice: 5
+Enter the block number to tamper (range 0-2): 1
+Block Index: 1
+Block Hash: 3834400ab430dc8bfb959c6d69a5124920cde8762dea480a7e55e13ba20fcec2
+Previous Hash: 1fbf6e27dd9a68260a8dbb09f93a6f3927b71183c84ea85c712d904d092f0b7b
+Timestamp: Sun Nov  5 19:35:35 2023
+Votes:
+0) 333e0a1e27815d0ceee55c473fe3dc93d56c63e3bee2b3b4aee8eed6d70191a3: B
+1) 3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43: D
+2) 559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd: A
+3) 6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d: C
+
+
+Enter the candidate whose vote is to be tampered: 1
+Enter the new vote: B
+Original Merkle Root (Block 1): 93effebdb508b89ca89ca3c2ef23e26609a0c7921082d711330f5541e4099941
+Modified Merkle Root (Block 1): 5fd181e04152c52afeb368ef8a05ce6872e5a904e83f788f05b4a8445a9ca2d8
+Merkle Roots do not match. The blockchain is immutable.
+
+Admin Controls:
+1) End Election (Generate Blockchain)
+2) Tally Votes
+3) View a Single Block
+4) View Full Blockchain
+5) Demonstrate Blockchain Immutability
+6) Exit to Main Menu
+Enter your choice: 6
+Exiting admin contol.
+
+Blockchain Voting System:
+1. View Candidates
+2. Register Voter
+3. Cast Vote
+4. Admin Controls
+5. Exit
+Enter your choice: 5
+Exiting program.
