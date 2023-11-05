@@ -180,7 +180,6 @@ private:
             EVP_cleanup();
             return "";
         }
-
         mdctx = EVP_MD_CTX_new();
         EVP_DigestInit_ex(mdctx, md, NULL);
         EVP_DigestUpdate(mdctx, uniqueId.c_str(), uniqueId.size());

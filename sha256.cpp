@@ -6,7 +6,8 @@
 
 using namespace std;
 
-// Helper functions: right rotate function
+// Helper functions
+// right rotate function
 uint32_t rightRotate(uint32_t value, int n)
 {
     return ((value >> n) | (value << (32 - n))) & 0xFFFFFFFF;
