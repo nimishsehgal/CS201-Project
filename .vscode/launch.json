@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/YEAR 2/CS201/Endsem Project/CS201-Project",
-      "program": "d:/YEAR 2/CS201/Endsem Project/CS201-Project/build/Debug/outDebug",
+      "cwd": "c:/Aniruddh/IIT ROPAR/Actual college life stuff/ACADEMICS/SEM 3/CS201 Data Structures and Algorithms/Project/CS201-Project",
+      "program": "c:/Aniruddh/IIT ROPAR/Actual college life stuff/ACADEMICS/SEM 3/CS201 Data Structures and Algorithms/Project/CS201-Project/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
