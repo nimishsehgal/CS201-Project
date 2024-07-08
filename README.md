@@ -11,4 +11,5 @@ g++ bc_vot_sys.o -o bc_vot_sys.exe -L"C:\Program Files\OpenSSL-Win64\lib" -lssl 
 bc_vot_sys.exe
 ```
 
-Upon execution, the user will get a menu interface, and needs to enter the appropriate options/commands to proceed and run the program. A test case has been given in bc_testcase.txt.
+Upon execution, the user will get a menu interface, and needs to enter the appropriate options/commands to proceed and run the program. A test case has been given in bc_testcase.txt.<br />
+A short ppt: [Blockchain-based voting system](https://docs.google.com/presentation/d/19OAUHt6ycafZmk4_ugiJ_ULXFlQXF3yK/edit?usp=sharing&ouid=115563981610636075357&rtpof=true&sd=true)
